@@ -27,7 +27,7 @@ I believe in the importance of constant evolution and that is why I keep studyin
 </td>
 <td>
 <b>Title:</b> Android Developer<br>
-<b>Skills:</b> <code>Kotlin</code> <code>Java</code> <code>Firebase</code> <code>Android SDK</code> <code>Google Cloud Platform</code> <code>Dagger 2</code> <code>RXJava</code> <code>MVP</code> <code>MVVM</code> <code></code> <code>Retrofit</code> <code>Clean Architecture</code><br><br>
+<b>Skills:</b> <code>Kotlin</code> <code>Java</code> <code>Firebase</code> <code>Android SDK</code> <code>Google Cloud Platform</code> <code>Dagger 2</code> <code>RXJava</code> <code>MVP</code> <code>MVVM</code> <code>Retrofit</code> <code>Clean Architecture</code><br><br>
 <a href="https://linkedin.com/company/invillia" title="LinkedIn" target="_blank" style="cursor: alias" rel="noopener">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
