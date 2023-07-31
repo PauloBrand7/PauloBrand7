@@ -6,7 +6,7 @@
 
 <h3>👋 Presentation:</h3>
 <p align="left">
-Hi! My name is <b>Paulo</b>, I'm 25 years old and I'm from Araraquara (São Paulo, <b>Brazil</b>).<br>
+Hi! My name is <b>Paulo</b>, I'm 26 years old and I'm from Araraquara (São Paulo, <b>Brazil</b>).<br>
 I'm a technology enthusiast, passionate about development, fueled by music🎶 and coffee☕<br>
 I have a bachelor's degree in Information Systems, also working with Android development since 2020.<br>
 I believe in the importance of constant evolution and that is why I keep studying and updating myself to improve my skills more and more.<br><br>
