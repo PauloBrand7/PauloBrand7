@@ -89,7 +89,7 @@ I believe in the importance of constant evolution and that is why I keep studyin
 <td>
 I learned about database systems, networking, software development, project management, and digital transformation strategies, among other important topics.
 </td>
-<td align="center">4 years (2019~2022)</td>
+<td align="center">4 years (2019~2023)</td>
 </tr>
 </table>
 </p><br>
