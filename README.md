@@ -82,7 +82,7 @@ I believe in the importance of constant evolution and that is why I keep studyin
 </tr>
 <tr>
 <td align="center">
-&nbsp; &nbsp; &nbsp; <a href="https://portal.anhembi.br"><img src="https://apprecs.org/ios/images/app-icons/256/b2/1044848562.jpg" width="60%"/></a>&nbsp; &nbsp; &nbsp; &nbsp; <br><br>
+&nbsp; &nbsp; &nbsp; <a href="https://portal.anhembi.br"><img src="https://1951880946.rsc.cdn77.org/resize?type=auto&width=224&url=https://reservio-static-production.s3.eu-central-1.amazonaws.com/businesses/44ee0f7c-f02a-4d4c-a73f-1f409bd149d2.png" width="60%"/></a>&nbsp; &nbsp; &nbsp; &nbsp; <br><br>
 <code>Universidade Anhembi Morumbi</code><br>
 <b>bachelor's degree<br>Information Systems</b>
 </td>
@@ -90,6 +90,17 @@ I believe in the importance of constant evolution and that is why I keep studyin
 I learned about database systems, networking, software development, project management, and digital transformation strategies, among other important topics.
 </td>
 <td align="center">4 years (2019~2023)</td>
+</tr>
+<tr>
+<td align="center">
+&nbsp; &nbsp; &nbsp; <a href="https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Mobile-Engineering-.aspx?pageID=774&moda=1&polo=1&curso=3190&situ=1"><img src="https://www.pucminas.br/Style%20Library/VIRTUAL/img/logo-puc-virtual.png" width="60%"/></a>&nbsp; &nbsp; &nbsp; &nbsp; <br><br>
+<code>PUC - Minas</code><br>
+<b>Postgraduate Studies<br>Mobile Application Development</b>
+</td>
+<td>
+A specialized postgraduate program in mobile application development for iOS and Android.
+</td>
+<td align="center">1 1/2 year (2024~2025)</td>
 </tr>
 </table>
 </p><br>
