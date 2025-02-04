@@ -1,6 +1,6 @@
 
 <p align="center">  
-	<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gcp,firebase,git&theme=light"  width="40%"/>
+	<img src="https://skillicons.dev/icons?i=apple,swift,androidstudio,kotlin,java,gcp,firebase,github&theme=light"  width="40%"/>
 </p>
 
 
