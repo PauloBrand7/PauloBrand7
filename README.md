@@ -40,7 +40,7 @@ I believe in the importance of constant evolution and that is why I keep studyin
 </a>
 </td>
 
-<td align="center">4 years (July/2020~currently)</td>
+<td align="center">4 years (July/2020~December/2024)</td>
 </tr>
 </table>
 </p><br>
