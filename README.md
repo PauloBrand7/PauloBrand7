@@ -57,7 +57,7 @@ I believe in the importance of constant evolution and that is why I keep studyin
 </tr>
 <tr>
 <td align="center">
-&nbsp; &nbsp; &nbsp; <a href="https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/MobileEngineering_EAD_Especializacao%20e%20Master.aspx?pageID=5343&moda=5&modaTipo=4&polo=43&curso=1053&situ=1"><img src="https://www.pucminas.br/Style%20Library/VIRTUAL/img/logo-puc-virtual.png" width="50%"/></a>&nbsp; &nbsp; &nbsp; &nbsp; <br><br>
+&nbsp; &nbsp; &nbsp; <a href="https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/MobileEngineering_EAD_Especializacao%20e%20Master.aspx?pageID=5343&moda=5&modaTipo=4&polo=43&curso=1053&situ=1"><img src="https://play-lh.googleusercontent.com/FlofO5QBo1Z8VPwvpMuyrAb1C3X1RRqANGRP-UWSBsYDb-hlJG49iE0ac4M-JVJwSzQ" width="50%"/></a>&nbsp; &nbsp; &nbsp; &nbsp; <br><br>
 <code>PUC - Minas</code><br>
 <b>Postgraduate Studies<br>Mobile Application Development</b>
 </td>
