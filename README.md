@@ -8,7 +8,7 @@
 <p align="left">
 Hey there! I'm <b>Paulo</b>, a 27 years old tech enthusiast from Araraquara, São Paulo, <b>Brazil</b>. <br>
 Passionate about all things development, I fuel my creativity with a good playlist🎶 and plenty of coffee☕.<br>
-With a bachelor's degree in Information Systems, I've been working as an Android developer since 2020. I'm currently pursuing a postgraduate degree in Mobile Development to further enhance my expertise.<br>
+With a bachelor's degree in Information Systems, I've been working as an Android developer since 2020. I'm currently pursuing a postgraduate degree in Mobile Development to further enhance my expertise, and now I'm also expanding my career into a hybrid path by studying iOS development.<br>
 I believe in the importance of constant evolution and that is why I keep studying and updating myself to improve my skills more and more.<br><br>
 
 
@@ -57,7 +57,7 @@ I believe in the importance of constant evolution and that is why I keep studyin
 </tr>
 <tr>
 <td align="center">
-&nbsp; &nbsp; &nbsp; <a href="https://www.pucminas.br/PUCVIRTUAL/Pos-Graduacao/Paginas/Mobile-Engineering-.aspx?pageID=774&moda=1&polo=1&curso=3190&situ=1"><img src="https://www.pucminas.br/Style%20Library/VIRTUAL/img/logo-puc-virtual.png" width="50%"/></a>&nbsp; &nbsp; &nbsp; &nbsp; <br><br>
+&nbsp; &nbsp; &nbsp; <a href="https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/MobileEngineering_EAD_Especializacao%20e%20Master.aspx?pageID=5343&moda=5&modaTipo=4&polo=43&curso=1053&situ=1"><img src="https://www.pucminas.br/Style%20Library/VIRTUAL/img/logo-puc-virtual.png" width="50%"/></a>&nbsp; &nbsp; &nbsp; &nbsp; <br><br>
 <code>PUC - Minas</code><br>
 <b>Postgraduate Studies<br>Mobile Application Development</b>
 </td>
