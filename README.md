@@ -19,8 +19,8 @@
 <br>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloBrand7&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBrand7&layout=compact&langs_count=8&theme=merko&hide_border=true&border_radius=10" alt="Top Languages"/>
+  <img src="profile/stats.svg" alt="GitHub Stats"/>
+  <img src="profile/top-langs.svg" alt="Top Languages"/>
 </p>
 <br>
 <p align="center">
