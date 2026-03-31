@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Paulo Brand's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 587, Total PRs: 25, Total Issues: 0, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 587, Total PRs: 27, Total Issues: 0, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 197.58446279023036;
+        stroke-dashoffset: 196.36955411438032;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >25</text>
+      >27</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
