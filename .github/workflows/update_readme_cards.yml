@@ -23,14 +23,17 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.SECRET_TOKEN }}
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate accurate top languages card
+        uses: lowlighter/metrics@latest
         with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=merko&hide_border=true&border_radius=10
-          path: profile/top-langs.svg
+          filename: profile/top-langs.svg
           token: ${{ secrets.SECRET_TOKEN }}
-
+          base: ""
+          plugin_languages: "yes"
+          plugin_languages_details: "bytes-size, percentage"
+          plugin_languages_limit: "8"
+          commits_authoring: "me, github-actions[bot]"
+          
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
