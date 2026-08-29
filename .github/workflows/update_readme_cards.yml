@@ -33,11 +33,16 @@ jobs:
           plugin_languages_details: "bytes-size, percentage"
           plugin_languages_limit: "8"
           commits_authoring: "me, github-actions[bot]"
-          
+          output_action: none
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
-          git push
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Push failed (attempt $i), retrying..."
+          done
+          exit 1
